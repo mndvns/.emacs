@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: doc-block
+# key: /*
+# --
+/**
+ * $1
+ */

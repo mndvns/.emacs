@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: doc-param
+# key: @p
+# --
+@param {${1:Type}} ${2:name} ${3:description}

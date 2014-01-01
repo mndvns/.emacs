@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: doc-block-module-dependencies
+# key: /m
+# --
+/**
+ * Module dependencies.
+ */
+
+$1
